@@ -1,0 +1,16 @@
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/bin/Debug/net5.0/Overloading
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/bin/Debug/net5.0/Overloading.deps.json
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/bin/Debug/net5.0/Overloading.runtimeconfig.json
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/bin/Debug/net5.0/Overloading.runtimeconfig.dev.json
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/bin/Debug/net5.0/Overloading.dll
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/bin/Debug/net5.0/ref/Overloading.dll
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/bin/Debug/net5.0/Overloading.pdb
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/obj/Debug/net5.0/Overloading.csprojAssemblyReference.cache
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/obj/Debug/net5.0/Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/obj/Debug/net5.0/Overloading.AssemblyInfoInputs.cache
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/obj/Debug/net5.0/Overloading.AssemblyInfo.cs
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/obj/Debug/net5.0/Overloading.csproj.CoreCompileInputs.cache
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/obj/Debug/net5.0/Overloading.dll
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/obj/Debug/net5.0/ref/Overloading.dll
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/obj/Debug/net5.0/Overloading.pdb
+/home/xuzer/Documents/Kuliah/Pemograman/Tugas/Overloading/obj/Debug/net5.0/Overloading.genruntimeconfig.cache
